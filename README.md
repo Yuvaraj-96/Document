@@ -9,4 +9,8 @@ Zen class reference document
 
 https://github.com/ragavkumarv/ragavkumarv
 
+# SYLLABUS
+
+https://drive.google.com/file/d/1u1OrCXgaFS-cybfl10J5FiOfA-uHSGeG/view?usp=sharing
+
 
