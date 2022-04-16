@@ -22,3 +22,12 @@ https://www.youtube.com/playlist?list=PLUsE_6_Dp6_4TtH_fy_JPuD4FW3u0txwC
 # MYSQL Practice Web Site
 
 https://sqlbolt.com/
+
+# Pushing code to GitHub
+
+1. git init
+2. git add ./
+3. git commit -m "first commit"
+4. git remote add origin https://github.com/Yuvaraj-96/Recipefinder.git
+5. git branch -M main
+6. git push -u origin main
