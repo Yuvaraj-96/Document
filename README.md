@@ -31,3 +31,7 @@ https://sqlbolt.com/
 4. git remote add origin https://github.com/Yuvaraj-96/Recipefinder.git
 5. git branch -M main
 6. git push -u origin main
+
+# Free hosting of back end
+1.https://render.com/
+2.https://railway.app/
